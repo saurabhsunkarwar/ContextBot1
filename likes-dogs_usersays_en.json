@@ -1,0 +1,54 @@
+[
+  {
+    "id": "b2d37b30-29c3-4c65-8b17-df55344ddaf6",
+    "data": [
+      {
+        "text": "i like my dog",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d248d33b-c879-4617-9c4a-492fe9ce79e0",
+    "data": [
+      {
+        "text": "i like a dog",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9ad7e9f-abb0-4e49-bf87-c16fadc7f461",
+    "data": [
+      {
+        "text": "i like the dog",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84c684ca-7110-42d6-b210-d6062fa779df",
+    "data": [
+      {
+        "text": "i like dogs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "424d778a-054f-40d2-b6b1-64645b6522aa",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Heya, which domestic animal do you like?",
+            "Hello! which domestic animal do you like?",
+            "Howdy, which domestic animal do you like?",
+            "Hey there, which domestic animal do you like?",
+            "Hey! Are you a dog person or cat person?",
+            "hello, cats or dogs?",
+            "Greeting! Do you prefer cats or dogs?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
