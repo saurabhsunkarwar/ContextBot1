@@ -6,3 +6,4 @@ An intent categorizes an end-user's intention for one conversation turn. For eac
 Here in this chatbot being built, the intents for various user interactions are deducted and coded accordingly.
 
 This entire project is builded on Dialogflow, integrated with HTML web page and then deployed on Netlify cloud platform.
+Link of deployed project : https://peaceful-fairy-e35dbb.netlify.app/
